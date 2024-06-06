@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
-<Announcments>
-  <AppVersionNumber>3.2.0.0</AppVersionNumber>
+<?xml version="1.0" encoding="utf-16"?>
+<Announcments xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <AppVersionNumber>312</AppVersionNumber>
   <PublishedDate>0001-01-01T00:00:00</PublishedDate>
   <Announcements>
     <Announcement>
@@ -9,7 +9,7 @@
       <Title>Test Ann</Title>
       <Description>Test anou ww</Description>
       <AnnouncementType>Ann</AnnouncementType>
-      <MinimumAppVersionNumber>3.2.0.0</MinimumAppVersionNumber>
+      <MinimumAppVersionNumber>313</MinimumAppVersionNumber>
     </Announcement>
     <Announcement>
       <AnnouncementId>2</AnnouncementId>
@@ -17,7 +17,7 @@
       <Title>Test Ann</Title>
       <Description>Test anou ww</Description>
       <AnnouncementType>Ann</AnnouncementType>
-      <MinimumAppVersionNumber>3.2.0.0</MinimumAppVersionNumber>
+      <MinimumAppVersionNumber>313</MinimumAppVersionNumber>
     </Announcement>
     <Announcement>
       <AnnouncementId>3</AnnouncementId>
@@ -25,7 +25,7 @@
       <Title>Test Ann</Title>
       <Description>Test anou ww</Description>
       <AnnouncementType>Ann</AnnouncementType>
-      <MinimumAppVersionNumber>3.2.0.0</MinimumAppVersionNumber>
+      <MinimumAppVersionNumber>313</MinimumAppVersionNumber>
     </Announcement>
   </Announcements>
 </Announcments>
