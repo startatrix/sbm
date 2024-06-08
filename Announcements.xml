@@ -2,8 +2,8 @@
 <Announcments>
   <LatestAppVersionNumber>3.2.0.0</LatestAppVersionNumber>
   <PublishedDate>2024-06-06T16:22:58.6768134+10:00</PublishedDate>
-  <DownloadAnnouncementMinuteInterval>1</DownloadAnnouncementMinuteInterval>
-  <DownloadAnnouncementHourInterval>0</DownloadAnnouncementHourInterval>
+  <DownloadAnnouncementMinuteInterval>0</DownloadAnnouncementMinuteInterval>
+  <DownloadAnnouncementHourInterval>3</DownloadAnnouncementHourInterval>
   <DownloadAnnouncementDayInterval>0</DownloadAnnouncementDayInterval>
   <Announcements>
     <Announcement>
