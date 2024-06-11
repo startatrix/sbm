@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Announcments>
+  <LatestAppVersionNumber>3.4.0.0</LatestAppVersionNumber>
+  <PublishedDate>2024-06-06T16:22:58.6768134+10:00</PublishedDate>
+  <DownloadAnnouncementMinuteInterval>0</DownloadAnnouncementMinuteInterval>
+  <DownloadAnnouncementHourInterval>3</DownloadAnnouncementHourInterval>
+  <DownloadAnnouncementDayInterval>0</DownloadAnnouncementDayInterval>
+  <CheckSmartDeviceConfigurationMinuteInterval>5</CheckSmartDeviceConfigurationtMinuteInterval>
+  <CheckSmartDeviceConfigurationHourInterval>0</CheckSmartDeviceConfigurationHourInterval>
+  <CheckSmartDeviceConfigurationDayInterval>0</CheckSmartDeviceConfigurationDayInterval>
+  <Announcements>
+    <Announcement>
+      <AnnouncementId>1</AnnouncementId>
+      <PublishDate>2024-06-06T16:22:58.6768134+10:00</PublishDate>
+      <Title>Test Ann</Title>
+      <Description>Test anou ww</Description>
+      <AnnouncementType>Ann</AnnouncementType>
+      <MinimumAppVersionNumber>3.2.0.0</MinimumAppVersionNumber>
+    </Announcement>
+    <Announcement>
+      <AnnouncementId>2</AnnouncementId>
+      <PublishDate>2024-06-06T16:22:58.6770645+10:00</PublishDate>
+      <Title>Test Ann</Title>
+      <Description>Test anou ww</Description>
+      <AnnouncementType>Ann</AnnouncementType>
+      <MinimumAppVersionNumber>3.2.0.0</MinimumAppVersionNumber>
+    </Announcement>
+    <Announcement>
+      <AnnouncementId>3</AnnouncementId>
+      <PublishDate>2024-06-06T16:22:58.6770651+10:00</PublishDate>
+      <Title>Test Ann</Title>
+      <Description>Test anou ww</Description>
+      <AnnouncementType>Ann</AnnouncementType>
+      <MinimumAppVersionNumber>3.2.0.0</MinimumAppVersionNumber>
+    </Announcement>
+  </Announcements>
+</Announcments>
