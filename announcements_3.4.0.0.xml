@@ -5,7 +5,7 @@
   <DownloadAnnouncementMinuteInterval>0</DownloadAnnouncementMinuteInterval>
   <DownloadAnnouncementHourInterval>3</DownloadAnnouncementHourInterval>
   <DownloadAnnouncementDayInterval>0</DownloadAnnouncementDayInterval>
-  <CheckSmartDeviceConfigurationMinuteInterval>5</CheckSmartDeviceConfigurationtMinuteInterval>
+  <CheckSmartDeviceConfigurationMinuteInterval>5</CheckSmartDeviceConfigurationMinuteInterval>
   <CheckSmartDeviceConfigurationHourInterval>0</CheckSmartDeviceConfigurationHourInterval>
   <CheckSmartDeviceConfigurationDayInterval>0</CheckSmartDeviceConfigurationDayInterval>
   <Announcements>
