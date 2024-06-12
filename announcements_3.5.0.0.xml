@@ -1,23 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Announcments>
+<Announcments >
   <LatestAppVersionNumber>3.5.0.0</LatestAppVersionNumber>
-  <PublishedDate>2024-01-01T00:00:00</PublishedDate>
+  <PublishedDate>2024-06-12T17:44:31.6929056+10:00</PublishedDate>
   <DownloadAnnouncementMinuteInterval>0</DownloadAnnouncementMinuteInterval>
-  <DownloadAnnouncementHourInterval></DownloadAnnouncementHourInterval>
-  <DownloadAnnouncementDayInterval>1</DownloadAnnouncementDayInterval>
+  <DownloadAnnouncementHourInterval>4</DownloadAnnouncementHourInterval>
+  <DownloadAnnouncementDayInterval>0</DownloadAnnouncementDayInterval>
   <CheckSmartDeviceConfigurationMinuteInterval>0</CheckSmartDeviceConfigurationMinuteInterval>
   <CheckSmartDeviceConfigurationHourInterval>1</CheckSmartDeviceConfigurationHourInterval>
   <CheckSmartDeviceConfigurationDayInterval>0</CheckSmartDeviceConfigurationDayInterval>
   <Announcements>
     <Announcement>
-      <AnnouncementId>1</AnnouncementId>
-      <PublishDate>2024-06-12T16:05:20.9270232+10:00</PublishDate>
-      <Title>Test Ann</Title>
-      <Description>Test anou ww</Description>
+      <AnnouncementId>11</AnnouncementId>
+      <PublishDate>2024-06-12T17:44:33.9744791+10:00</PublishDate>
+      <Title>This annou</Title>
+      <Description>Something</Description>
       <AnnouncementType>Announcment</AnnouncementType>
-      <MinimumAppVersionNumber>45</MinimumAppVersionNumber>
-      <HeroImageURL>https://startatrix.github.io/sbm/Announcements/promo1/images/SMB_final.jpg</HeroImageURL>
-      <AnnouncementType>Ann</AnnouncementType>
+      <MinimumAppVersionNumber>3.5.0.0</MinimumAppVersionNumber>
+      <HeroImageURL />
       <Actions>
         <AnnouncementAction>
           <ActionDisplayName>Yes</ActionDisplayName>
