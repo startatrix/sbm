@@ -15,10 +15,9 @@
       <Title>Test Ann</Title>
       <Description>Test anou ww</Description>
       <AnnouncementType>Announcment</AnnouncementType>
-      <MinimumAppVersionNumber>3.5.0.0</MinimumAppVersionNumber>
+      <MinimumAppVersionNumber>45</MinimumAppVersionNumber>
       <HeroImageURL>https://startatrix.github.io/sbm/Announcements/promo1/images/SMB_final.jpg</HeroImageURL>
       <AnnouncementType>Ann</AnnouncementType>
-      <MinimumAppVersionNumber>3.2.0.0</MinimumAppVersionNumber>
       <Actions>
         <AnnouncementAction>
           <ActionDisplayName>Yes</ActionDisplayName>
