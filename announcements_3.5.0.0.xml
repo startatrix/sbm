@@ -16,7 +16,8 @@
       <Description>Something</Description>
       <AnnouncementType>Announcment</AnnouncementType>
       <MinimumAppVersionNumber>3.5.0.0</MinimumAppVersionNumber>
-      <HeroImageURL />
+      <HeroImageURL>https://startatrix.github.io/sbm/Announcements/promo1/images/SMB_final.jpg</HeroImageURL>
+      <InlineImageURL>https://startatrix.github.io/sbm/Announcements/promo1/images/SMB_final.jpg</InlineImageURL>
       <Actions>
         <AnnouncementAction>
           <ActionDisplayName>Yes</ActionDisplayName>
