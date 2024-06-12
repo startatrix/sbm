@@ -24,6 +24,24 @@
           <ActionName>no</ActionName>
         </AnnouncementAction>
       </Actions>
+      <ReminderOptions>
+        <AnnouncementReminderDurationOption>
+          <OptionName>1 Minute</OptionName>
+          <DurationInMinutes>1</DurationInMinutes>
+        </AnnouncementReminderDurationOption>
+        <AnnouncementReminderDurationOption>
+          <OptionName>30 Minutes</OptionName>
+          <DurationInMinutes>30</DurationInMinutes>
+        </AnnouncementReminderDurationOption>
+        <AnnouncementReminderDurationOption>
+          <OptionName>1 Hour</OptionName>
+          <DurationInMinutes>60</DurationInMinutes>
+        </AnnouncementReminderDurationOption>
+        <AnnouncementReminderDurationOption>
+          <OptionName>4 Hours</OptionName>
+          <DurationInMinutes>240</DurationInMinutes>
+        </AnnouncementReminderDurationOption>
+      </ReminderOptions>
       <AnnouncementType>Ann</AnnouncementType>
       <MinimumAppVersionNumber>3.2.0.0</MinimumAppVersionNumber>
     </Announcement>
