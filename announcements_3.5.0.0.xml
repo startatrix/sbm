@@ -3,10 +3,10 @@
   <LatestAppVersionNumber>3.5.0.0</LatestAppVersionNumber>
   <PublishedDate>2024-01-01T00:00:00</PublishedDate>
   <DownloadAnnouncementMinuteInterval>0</DownloadAnnouncementMinuteInterval>
-  <DownloadAnnouncementHourInterval>0</DownloadAnnouncementHourInterval>
-  <DownloadAnnouncementDayInterval>0</DownloadAnnouncementDayInterval>
+  <DownloadAnnouncementHourInterval></DownloadAnnouncementHourInterval>
+  <DownloadAnnouncementDayInterval>1</DownloadAnnouncementDayInterval>
   <CheckSmartDeviceConfigurationMinuteInterval>0</CheckSmartDeviceConfigurationMinuteInterval>
-  <CheckSmartDeviceConfigurationHourInterval>0</CheckSmartDeviceConfigurationHourInterval>
+  <CheckSmartDeviceConfigurationHourInterval>1</CheckSmartDeviceConfigurationHourInterval>
   <CheckSmartDeviceConfigurationDayInterval>0</CheckSmartDeviceConfigurationDayInterval>
   <Announcements>
     <Announcement>
@@ -15,7 +15,7 @@
       <Title>Test Ann</Title>
       <Description>Test anou ww</Description>
       <AnnouncementType>Announcment</AnnouncementType>
-      <MinimumAppVersionNumber>DD</MinimumAppVersionNumber>
+      <MinimumAppVersionNumber>3.5.0.0</MinimumAppVersionNumber>
       <HeroImageURL>https://startatrix.github.io/sbm/Announcements/promo1/images/SMB_final.jpg</HeroImageURL>
       <AnnouncementType>Ann</AnnouncementType>
       <MinimumAppVersionNumber>3.2.0.0</MinimumAppVersionNumber>
